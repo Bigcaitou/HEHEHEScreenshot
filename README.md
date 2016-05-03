@@ -1,3 +1,4 @@
 # HEHEHEScreenshot
 
-为什么要叫HEHEHEScreenshot呢，因为之前我注册过一个域名：hehehe.xyz，然后就在谷歌成立母公司Alphabet并注册域名abc.xyz之后，我才想起我的hehehe.xyz忘记续费了，结果被别人抢注了哭，本来一个很有女神范的域名，呵呵呵，我现在只能翻出来之前写的用来调戏处女座的截图工具，来纪念我的hehehe.xyz
+这是一个JAVA实现的屏幕截图工具，顺便可以在截取的屏幕中加上一只苍蝇，用来调戏处女座。
+为什么要叫HEHEHEScreenshot呢，因为之前我注册过一个域名：hehehe.xyz，然后就在谷歌成立母公司Alphabet并注册域名abc.xyz之后，我才想起我的hehehe.xyz忘记续费了，结果被别人抢注了哭，本来一个很有女神范的域名，呵呵呵，我现在只能翻出来之前写的用来调戏处女座的截图工具，来纪念我的hehehe.xyz。
